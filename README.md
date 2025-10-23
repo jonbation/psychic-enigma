@@ -4,7 +4,7 @@ Build Time Analyzer for Xcode
 Build Time Analyzer is a macOS app that shows you a break down of Swift build times.
 
 
-# 🧠 Psychic Enigma — Build Time Analyzer for Xcode
+# 🧠 Psychic Enigma 
 
 ![release](https://img.shields.io/badge/release-v1.0.12-blue)
 ![build](https://img.shields.io/badge/build-passing-brightgreen)
