@@ -1,7 +1,7 @@
 
 ## Overview
 
-Build Time Analyzer is a macOS app that shows you a break down of Swift build times.
+Psychic Enigma-Build Time Analyzer is a macOS app that shows you a break down of Swift build times.
 
 
 # 🧠 Psychic Enigma 
