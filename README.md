@@ -16,7 +16,7 @@ Psychic Enigma-Build Time Analyzer is a macOS app that shows you a break down of
 
 ## 🧩 Overview
 
-**Psychic Enigma** is a **macOS app** designed to help iOS and macOS developers **analyze and optimize Xcode build times**.  
+**Psychic Enigma** is a **macOS app** designed to help developers **analyze and optimize Xcode build times**.  
 It breaks down your Swift project’s build process into easily understandable segments, allowing you to identify bottlenecks and speed up your builds.
 
 ---
